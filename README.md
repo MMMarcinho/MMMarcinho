@@ -1,14 +1,7 @@
-# Hi, I'm Marco 👋
+# Hi, I'm Marco
 
-I'm a frontend engineer who enjoys building thoughtful interfaces and making ideas feel good to use.
+I used to spend a lot of time handcrafting interactions, keeping MDN open, and getting CSS to behave. With AI in the loop, building interfaces feels different now. I still care about the small details: how an interface responds, where it gets in the way, and whether it feels natural to use.
 
-I work with **React, TypeScript, and Node.js**. I'm also interested in AI and developer tools, especially where they meet the frontend.
-
-## Projects
-
-- [open-intelligent-ui](https://github.com/MMMarcinho/open-intelligent-ui) — Turning model responses into interactive interfaces.
-- [aizo](https://github.com/MMMarcinho/aizo) — Local memory for coding agents.
-
-## Say hello
+Lately, I'm exploring [open-intelligent-ui](https://github.com/MMMarcinho/open-intelligent-ui), a protocol for turning model responses into interactive interfaces.
 
 [marcooourifz@gmail.com](mailto:marcooourifz@gmail.com)
